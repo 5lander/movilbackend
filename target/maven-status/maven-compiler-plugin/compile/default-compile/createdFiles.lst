@@ -1,0 +1,11 @@
+com\rodriguez\movilbackend\dao\EmailRepository.class
+com\rodriguez\movilbackend\dao\PhoneRepository.class
+com\rodriguez\movilbackend\model\Direction.class
+com\rodriguez\movilbackend\dao\PersonRepository.class
+com\rodriguez\movilbackend\enums\EstadoCivil.class
+com\rodriguez\movilbackend\enums\Sexo.class
+com\rodriguez\movilbackend\model\Phone.class
+com\rodriguez\movilbackend\model\Person.class
+com\rodriguez\movilbackend\Movilbackend.class
+com\rodriguez\movilbackend\dao\DirectionRepository.class
+com\rodriguez\movilbackend\model\Email.class
